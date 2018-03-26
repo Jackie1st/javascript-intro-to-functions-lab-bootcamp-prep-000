@@ -1,8 +1,7 @@
-Function shout(string) 
-{
+function shout(string){
   return string.toUpperCase();
 }
-Function whisper(string)
+function whisper(string)
 {
   return string.toLowerCase();
 }
